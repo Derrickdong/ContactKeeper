@@ -1,3 +1,5 @@
+![Image of the project](https://github.com/Derrickdong/ContactKeeper/blob/master/Home.PNG)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

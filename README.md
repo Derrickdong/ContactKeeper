@@ -9,8 +9,8 @@ In the project directory, you can run:
 ### `npm run dev`
 Run the application
 
-You have to install concurrently (You could use 'npm install -g concurrently' to install it globally)
-And then type 'npm run dev' to start the application.
+You have to install concurrently (You could use 'npm install' to install all dependencies we need)
+And then type 'npm run dev' to start the application in your terminal.
 
 ### `npm start`
 
